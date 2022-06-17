@@ -1,0 +1,12 @@
+Origin: pandather's repo
+Label: pandather's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Various iOS tweaks and app mods I have made.
+
+SHA256:
+ a1989003316ddceeb19635b36d5a783e18ba30536e42eadfd1e9056899d336ac 559 Packages.bz2
+ a61b26600580dd21ac75ac8a484ee23a80cc07ac0accd7520f2a859f93ea1056 560 Packages.xz
